@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MFY-Utility",
+  "name": "MakersFactory Utility",
+  "description": "Server-side only utility features for Minecraft Forge and MinecraftEdu.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Joe Allington"],
+  "credits": "Joe Allington, MakersFactory",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
